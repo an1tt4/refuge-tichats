@@ -19,5 +19,5 @@ Ce projet est une application web conteneurisée permettant de gérer des réser
 * **Nom d'utilisateur** : admin_refuge
 
 ## Auteur
-**Anitta KANGPAPHANH**
-**Ilian JEAN**
+***Anitta KANGPAPHANH**
+***Ilian JEAN**
